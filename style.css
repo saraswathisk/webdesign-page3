@@ -1,0 +1,33 @@
+.nav_align{
+    text-align: center;
+}
+.faq_nav{
+    font-size: 14px;
+    
+}
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  .faq_clr{
+    background-color: red;
+  }
+
+.footer{
+    background-color: red;
+    color:white;
+    padding-right:98px;
+    
+    
+}
+.email_footer{
+    background-color:grey;
+    margin-bottom: 10px;;
+
+}
